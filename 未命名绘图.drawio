@@ -1,0 +1,32 @@
+<mxfile host="app.diagrams.net" modified="2023-12-14T09:51:25.454Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" version="22.1.8" etag="cnyylZJxygg6OdPY-PIK" type="github">
+  <diagram name="第 1 页" id="jz7IowpUcWtnLm93AeBi">
+    <mxGraphModel>
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="Paper Framework Diagram" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry width="189" height="252" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="Node A" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="2">
+          <mxGeometry x="43" y="33" width="65" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="Node B" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="2">
+          <mxGeometry x="43" y="117" width="65" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="Node C" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="2">
+          <mxGeometry x="43" y="201" width="66" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5096754807692307;exitY=1;entryX=0.5096754807692307;entryY=0;" edge="1" parent="2" source="3" target="4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5096754807692307;exitY=1;entryX=0.501953125;entryY=0;" edge="1" parent="2" source="4" target="5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
